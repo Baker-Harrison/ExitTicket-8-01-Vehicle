@@ -1,0 +1,3 @@
+/Users/harrisonbaker/CLionProjects/Position-Practice/cmake-build-debug/CMakeFiles/Position_Practice.dir
+/Users/harrisonbaker/CLionProjects/Position-Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrisonbaker/CLionProjects/Position-Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
